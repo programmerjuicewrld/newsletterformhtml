@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+body {
+  color: #2d3945;
+  font-family: "Poppins", sans-serif;
+}
+.project {
+  justify-content: center;
+  max-width: 580px;
+  padding-left: 450px;
+}
+.heading1 {
+  text-align: center;
+}
+#h1 {
+  background-color: #2d3945;
+  color: white;
+  font-size: 25px;
+  margin: 0% auto;
+  padding: 0%;
+  border: 50px solid #2d3945;
+  padding-left: 570px;
+}
+.one {
+  padding-bottom: 2px;
+  height: 4px;
+  border: none;
+  background-color: #2d3945;
+}
+.two {
+  height: 2px;
+  border: none;
+  background-color: #2d3945;
+}
+.three {
+  height: 2px;
+  border: none;
+  background-color: #2d3945;
+}
+
+#full_name {
+  width: 350px;
+  height: 30px;
+  margin-left: 102px;
+}
+#email_address {
+  width: 350px;
+  height: 30px;
+  margin-left: 71px;
+  margin-top: 10px;
+}
+#phone_number {
+  width: 350px;
+  height: 30px;
+  margin-left: 65px;
+  margin-top: 10px;
+}
+
+#city {
+  width: 350px;
+  height: 30px;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+#state {
+  width: 360px;
+  height: 38px;
+  margin-left: 139px;
+  margin-top: 10px;
+}
+#zip_code {
+  width: 352px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 112px;
+}
+button {
+  color: white;
+  background-color: #389b96;
+  border: 1px solid #389b96;
+  padding-left: 260px;
+  padding-right: 260px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+button:hover {
+  color: #389b96;
+  background-color: white;
+  transition: opacity 1s ease-in-out;
+}
+textarea {
+  padding-left: 10px;
+}
+.c {
+  font-style: italic;
+  color: #9f9f9f;
+  font-size: 12px;
+  text-align: center;
+}
